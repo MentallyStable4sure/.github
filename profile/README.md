@@ -2,7 +2,7 @@
   <img src='https://mentallystable4sure.dev/assets/images/banner-bg.png' width='500' align="right">
   <p float="right">
  
-  <img src='https://mentallystable4sure.dev/assets/images/features-icon-1.png' width='75' align="left">
+  <a href="https://mentallystable4sure.dev/"><img src='https://mentallystable4sure.dev/assets/images/features-icon-1.png' width='75' align="left"></a>
   
   Independent dev team, doing barely working stuff tbh, our projects can be found at: [🕸️ Our webpage 🕸️](https://mentallystable4sure.dev/)
 
